@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=HELLO,+My+name+is+Paulo+Higa;I'm+20+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](htt ps://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23%23+Hello+World%F0%9F%91%8B;-+%F0%9F%98%8AI'm+Paulo+Jos%C3%A9+Higa+Freitas;-+%F0%9F%92%BB+I'm+currently+studying+Computer+Science+(UCB)+and+Data+Science+(EBAC);-+%F0%9F%93%96+Always+looking+for+new+knowledge;-+%F0%9F%93%AB+How+to+contact+me%3A;%F0%9F%93%9ETel%3A+(11)99690-6062;%F0%9F%93%A7Email%3A+paulohiga171204%40gmail.com)](https://git.io/typing-svg)
 
 
 
