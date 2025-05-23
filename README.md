@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=451&height=55&lines=I'm+Paulo+Jos%C3%A9+Higa+Freitas;Studying+%3A;Computer+Science+(UCB)+;Data+Science+(EBAC))](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=451&height=55&lines=I'm+Paulo+Jos%C3%A9+Higa+Freitas;Studying+%3A;Computer+Science+(UCB)+;Data+Science+(EBAC);-+%F0%9F%92%BB%F0%9F%93%96Always+looking+for+new+knowledge)](https://git.io/typing-svg)
 
 
 - 💻📖Always looking for new knowledge
