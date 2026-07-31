@@ -48,30 +48,6 @@ Gosto de transformar o conteúdo estudado em projetos práticos, documentados e 
 | [Desempenho Acadêmico](https://github.com/oPauLoHiga/NovasTecnologiasProjetoFinal) | Python, NumPy, pandas, Seaborn | Análise de 649 estudantes, criação de indicadores de risco e investigação de fatores associados à nota final |
 | [Programação Orientada a Objetos](https://github.com/oPauLoHiga/ProgramacaoOrientadaObjeto) | Java, JDBC, MySQL | Exercícios progressivos de POO, herança, polimorfismo e sistemas escolares com dados em memória e banco de dados |
 
-## Minha evolução
-
-```text
-Fundamentos de Java
-        ↓
-Programação Orientada a Objetos
-        ↓
-APIs REST com Spring Boot e MySQL
-        ↓
-Integração com interfaces em Vue.js
-        ↓
-Aplicações full stack mais completas
-```
-
-Em paralelo, desenvolvo projetos com Python para praticar análise exploratória, visualização de dados e modelos de classificação.
-
-## Próximos objetivos técnicos
-
-- Ampliar a cobertura de testes com JUnit;
-- documentar APIs com OpenAPI e Swagger;
-- implementar autenticação com Spring Security e JWT;
-- utilizar Docker na preparação dos ambientes;
-- publicar aplicações full stack em ambientes de produção.
-
 ---
 
 <div align="center">
