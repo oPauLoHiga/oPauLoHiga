@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=190&section=header&text=Paulo%20Higa&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Java%20e%20Spring%20Boot%20%7C%20Vue.js%20%7C%20Python&descAlignY=58&descSize=17" alt="Banner do perfil de Paulo Higa" />
 
-## Olá! Eu sou o Paulo Higa 👋
+## Olá! Eu sou o Paulo José Higa Freitas 👋
 
 Sou estudante de **Ciência da Computação**, com foco em desenvolvimento de aplicações utilizando **Java e Spring Boot**. Também construo interfaces com **Vue.js** e utilizo **Python** em projetos de análise de dados e aprendizado de máquina.
 
